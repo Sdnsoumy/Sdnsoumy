@@ -66,4 +66,4 @@ mindmap
 ---
 
 ### 📬 Connect
-[Email](mailto:nayaksaumyaranjana@gmail.com) • [LinkedIn](YOUR_LINKEDIN_URL) • [LeetCode](YOUR_LEETCODE_URL)
+[Email](mailto:nayaksaumyaranjana@gmail.com) • [LinkedIn](https://www.linkedin.com/in/saumyarn21/) 
