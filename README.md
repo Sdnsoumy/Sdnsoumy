@@ -17,7 +17,7 @@
 
 ```mermaid
 mindmap
-  root((Saumyaranjan(Sam) N.))
+  root((Sam))
     Full Stack
       Angular
       Node.js & Express
