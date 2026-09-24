@@ -1,15 +1,10 @@
-# 🚀 Saumyaranjan(Sam) N.
-### Systems Engineer @ Infosys | Full-Stack & AI Agent Developer
+# 🚀 Saumyaranjan(Sam) N. ✦
+### Full-Stack & AI Agent Developer
 
 ---
 
 ### 💡 Quick Bio
 > **Full-Stack Developer (MEAN Stack)** & **AI Automation Enthusiast** turning complex business logic into clean, scalable software.
-
-- 💼 **Role:** Systems Engineer @ Infosys
-- 🎓 **Education:** MCA @ KIIT University (CGPA 8.69)
-- 📍 **Location:** Bhubaneswar, India
-- 🏆 **Award:** Infosys Appreciation Award for AI Automation & Development
 
 ---
 
