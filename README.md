@@ -53,9 +53,10 @@ mindmap
 ---
 
 ### 📊 GitHub Activity
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nord&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=nord&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sdnsoumy&show_icons=true&theme=nord&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sdnsoumy&layout=compact&theme=nord&hide_border=true" width="48%"/>
 </div>
 
 ---
