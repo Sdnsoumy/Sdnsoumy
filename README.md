@@ -1,4 +1,4 @@
-# 🚀 Saumyaranjan Nayak
+# 🚀 Saumyaranjan(Sam) N.
 ### Systems Engineer @ Infosys | Full-Stack & AI Agent Developer
 
 ---
